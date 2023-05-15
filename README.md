@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://salehrezaei.com/en](https://salehrezaei.com/en)
 
-- 📝 I regularly write articles on [https://salehrezaei.com/blog](https://salehrezaei.com/blog)
-
 - 📫 How to reach me **me@salehrezaei.com**
 
 - 📄 Know about my experiences [https://salehrezaei.com/en#resume](https://salehrezaei.com/en#resume)
